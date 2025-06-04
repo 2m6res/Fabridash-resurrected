@@ -64,4 +64,4 @@ And that's it.
 You could even extract the `API` module and use it as is, but remember to register the client dash packet receiver!
 
 # 📜 License
-This mod is available under the `MIT license`, however, it would be greatly appreciated to credit me (DKXLY) and Emafire003 if you'll use it somewhere.
+This mod is available under the `MIT license`, however, it would be greatly appreciated to credit me (2m6res) and Emafire003 if you'll use it somewhere.
